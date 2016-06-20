@@ -1,0 +1,203 @@
+.container{
+	margin: 0 auto;
+	width: 960px;
+	background-color:#F9F9F9;
+}
+.row {
+	clear: both;
+	margin: 10px 0 10px 0;
+}
+.col1, .col2, .col3, .col4,
+.col5, .col6, .col7, .col8,
+col9, .col10, .col11, .col12 {
+	float: left;
+	line-height: 30px;
+	margin: 0 10px 0 10px;
+	adding: 0;
+}
+.col1 {
+	width: 60px;
+	}
+.col2 {
+	width: 140px;
+}
+.col3 {
+	width: 220px;
+}
+.col4 {
+	width: 275px;
+}
+.col5 {
+	width: 380px;
+}
+.col6 {
+	width: 460px;
+}
+.col7 {
+	width: 540px;
+}
+.col8 {
+	width: 620px;
+}
+.col9 {
+	width: 700px;
+}
+.col10 {
+	width: 780px;
+}
+.col11 {
+	width: 860px;
+}
+.col12 {
+	width: 940px;
+}
+body{
+	background-image:url(../picture_home/background.png);
+	margin: 0 auto;
+	width:960px;
+}
+.header{
+	background-color:#F9F9F9;
+	height:160px;
+	width:940px;
+	margin-top:10px;
+}
+.header h1{
+	font-style:italic;
+	padding-left:695px;
+	padding-top:70px;
+}
+.header a{
+	text-decoration:none;
+	color:black;
+}
+.logo{
+	padding-left:10px;
+}
+.menu{
+	padding-top:50px;
+	float:right;
+	padding-right:30px;
+}
+.menu li{
+	text-align:center;
+	height:25px;
+	width:80px;
+	float:right;
+	list-style-type:none;
+	margin-bottom:5px;
+}
+.menu a{
+	text-decoration:none;
+	color:black;
+	font-size:20px;
+}
+.menu a:hover{
+	color:#06A4F9;
+}
+.signup{
+	padding-left:780px;
+}
+.signup a{
+	text-decoration:none;
+	color:black;
+	font-size:15px;
+}
+.signup a:hover{
+	color:#06A4F9;
+}
+.isi{
+	background-color:black;
+	width:940px;
+}
+.pilihan{
+	background-color:black;
+	width:130px;
+	color:white;
+	text-align:center;
+}
+.pilihan h2{
+	color:white;
+	text-align:center;
+}
+.pilihan a{
+	color:white;
+	text-decoration:none;
+	padding-left:10px;
+	font-size:16px;
+	
+}
+.pilihan a:hover{
+	color:#04C4FB;
+}
+.gambar{
+	background:black;
+	width:570px;
+	padding-bottom:10px;
+	margin-top:10px;
+}
+.gambar p{
+	color:white;
+}
+.border{
+	height:260px;
+	width:165px;
+	padding-bottom:5px;
+}
+.popular{
+	background-color:black;
+	width:175px;
+	color:white;
+}
+.popular h2{
+	color:white;
+	text-align:center;
+	padding-left:16px;
+}
+.popular a{
+	color:white;
+	text-decoration:none;
+	font-size:16px;
+	text-decoration:none;
+}
+.popular p{
+	padding-bottom:30px;
+}
+.samping{
+	margin-bottom:2px;
+	padding-left:10px;
+}
+.samping p{
+	text-align:justify;
+	font-size:11px;
+	font-family:Verdana, Geneva, sans-serif;
+	line-height:20px;
+	width:150px;
+}
+.other{
+	margin-top:10px;
+	width:152px;
+	margin-bottom:2px;
+	padding-left:15px;
+}
+.other p{
+	text-align:justify;
+	font-size:11px;
+	font-family:Verdana, Geneva, sans-serif;
+	line-height:20px;
+	width:145px;
+}
+.other a{
+	text-decoration:none;
+	color:black;
+}
+.footer{
+	background-color:black;
+	width:960px;
+	height:20px;
+	color:white;
+	text-align:center;
+	padding-top:20px;
+	line-height:1px;
+	margin-right:10px;
+}
